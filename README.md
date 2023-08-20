@@ -1,5 +1,7 @@
 # amazonClone
 
+https://trishadas13.github.io/amazonClone/
+
 ![header](https://github.com/trishaDas13/amazonClone/assets/126088849/50a0c3c8-1e83-41e6-9d3d-f3abfeed7b17)
 ![1](https://github.com/trishaDas13/amazonClone/assets/126088849/b10f262f-e1d0-4df9-9ca8-e4548d209b24)
 ![2](https://github.com/trishaDas13/amazonClone/assets/126088849/2468c8eb-3dce-4051-aa76-0e31b5047fa6)
